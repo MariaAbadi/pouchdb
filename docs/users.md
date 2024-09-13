@@ -30,6 +30,10 @@ A list of known products and services that are using PouchDB.
 ## Delta
 [Delta](http://delta.octavore.com/) is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting, or in the command-line using the --cli flag.
 
+## DevITJobs
+
+[DevITJobs](https://devitjobs.com) is a job board for the tech industry with required salary info & tech stacks
+
 ## eHealth Africa
 
 {% include img.html width=200 src="ehealth_africa.png" alt="eHealth Africa" %}
